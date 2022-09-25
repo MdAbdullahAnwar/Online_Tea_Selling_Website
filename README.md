@@ -11,3 +11,5 @@ In Menu Section their are teas having todays specialitity teas with their cost, 
 In Review Section there are people giving their reviews and rating. 
 In Order section where customer can apply for the order.  
 At last, footer section having location of the shop, contact info and social media link.
+# Speciality of the website
+This website have very neat and clean look. Which is very easy to easy by customers and a treat to watch.
